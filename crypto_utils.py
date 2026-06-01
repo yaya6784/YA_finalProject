@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+__author__ = "Eilay Zafira"
+
 import base64
 import hashlib
 import os

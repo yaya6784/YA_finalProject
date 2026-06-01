@@ -1,3 +1,6 @@
+__author__ = "Eilay Zafira"
+
+
 SIZE_HEADER_FORMAT = "0000000|"
 size_header_size = len(SIZE_HEADER_FORMAT)
 TCP_DEBUG = False
